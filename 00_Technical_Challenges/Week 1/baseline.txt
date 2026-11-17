@@ -1,0 +1,212 @@
+=== What are the four main types of exercise listed in the guide?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 1.56s
+embedding usage: Usage(prompt_tokens=13, total_tokens=13)
+
+Q: What are the four main types of exercise listed in the guide?
+
+The four main types of exercise listed in the guide are aerobic (cardio), strength training, flexibility, and balance exercises [chunk 0].
+
+Sources:
+  [chunk 0] The Personal Wellness Guide A Comprehensive Resource for Hea... (score 0.586)
+      The Personal Wellness Guide A Comprehensive Resource for Health and Well-being PART 1: EXERCISE AND MOVEMENT Chapter 1: Understanding Exercise Basics Exercise is one of the most important things you can do for your health. Regular physical activity can improve your brain health, help manage weight, reduce the risk of disease, strengthen bones and muscles, and improve your ability to do everyday ac...
+  [chunk 3] repeat 10 times. Chapter 3: Building a Workout Routine Start... (score 0.477)
+      repeat 10 times. Chapter 3: Building a Workout Routine Starting a new exercise routine can feel overwhelming. The key is to start slowly and gradually increase intensity and duration over time. Beginner Weekly Schedule: - Monday: 20-minute walk + 10 minutes stretching - Tuesday: 15 minutes bodyweight exercises (squats, push-ups, planks) - Wednesday: Rest or gentle yoga - Thursday: 20-minute walk +...
+  [chunk 2] chest while keeping the other foot flat. Hold for 15-30 seco... (score 0.350)
+      chest while keeping the other foot flat. Hold for 15-30 seconds, then switch legs. - Pelvic Tilts: Lie on your back with knees bent, flatten your back against the floor by tightening abs and tilting pelvis up slightly. Hold for 10 seconds, repeat 8-12 times. Neck and Shoulder Tension Desk work and poor posture often lead to neck and shoulder tension. These exercises can provide relief: - Neck Roll...
+
+total 3.36s
+=== How many main dishes does the guide suggest choosing when planning meals for the week?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.87s
+embedding usage: Usage(prompt_tokens=16, total_tokens=16)
+
+Q: How many main dishes does the guide suggest choosing when planning meals for the week?
+
+The guide suggests choosing 3-4 main dishes that can provide leftovers when planning meals for the week [chunk 5]. 
+
+For personalized advice, it's always good to consult a nutrition professional.
+
+Sources:
+  [chunk 5] l planning saves time, reduces stress, and helps maintain a ... (score 0.482)
+      l planning saves time, reduces stress, and helps maintain a healthy diet. Weekly Meal Planning Steps: 1. Review your schedule for the week and identify busy days 2. Choose 3-4 main dishes that can provide leftovers 3. Plan for healthy snacks to avoid impulse eating 4. Create a detailed shopping list organized by store section 5. Prep ingredients in advance when possible Sample Day of Balanced Eati...
+  [chunk 4] ls of Healthy Eating A balanced diet provides your body with... (score 0.470)
+      ls of Healthy Eating A balanced diet provides your body with the nutrients it needs to function properly. The key components include: Macronutrients: - Carbohydrates: Primary energy source. Choose complex carbs like whole grains, fruits, and vegetables. - Proteins: Essential for muscle repair and immune function. Good sources include lean meats, fish, eggs, legumes, and dairy. - Fats: Necessary fo...
+  [chunk 3] repeat 10 times. Chapter 3: Building a Workout Routine Start... (score 0.328)
+      repeat 10 times. Chapter 3: Building a Workout Routine Starting a new exercise routine can feel overwhelming. The key is to start slowly and gradually increase intensity and duration over time. Beginner Weekly Schedule: - Monday: 20-minute walk + 10 minutes stretching - Tuesday: 15 minutes bodyweight exercises (squats, push-ups, planks) - Wednesday: Rest or gentle yoga - Thursday: 20-minute walk +...
+
+total 2.04s
+=== How many minutes does the guide suggest starting with for basic mindfulness meditation?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.76s
+embedding usage: Usage(prompt_tokens=14, total_tokens=14)
+
+Q: How many minutes does the guide suggest starting with for basic mindfulness meditation?
+
+The guide suggests starting with 5 minutes for basic mindfulness meditation and gradually increasing from there [chunk 11]. 
+
+For personalized advice, it's always good to consult a mindfulness instructor or healthcare professional.
+
+Sources:
+  [chunk 11] Regular mindfulness practice has been shown to reduce stress... (score 0.540)
+      Regular mindfulness practice has been shown to reduce stress, improve focus, and enhance emotional regulation. Basic mindfulness meditation: 1. Find a quiet, comfortable place to sit 2. Close your eyes and focus on your breath 3. Notice when your mind wanders (this is normal) 4. Gently return attention to your breath 5. Start with 5 minutes and gradually increase Types of meditation: - Focused att...
+  [chunk 10] gement involves both immediate relief techniques and long-te... (score 0.435)
+      gement involves both immediate relief techniques and long-term lifestyle changes. Immediate stress relief: - Deep breathing: Inhale for 4 counts, hold for 4, exhale for 4 - Progressive muscle relaxation: Tense and release muscle groups from toes to head - Grounding technique: Name 5 things you see, 4 you hear, 3 you feel, 2 you smell, 1 you taste - Take a short walk, preferably in nature - Listen ...
+  [chunk 20] cklist: - 8 glasses of water - 5+ servings of fruits/vegetab... (score 0.367)
+      cklist: - 8 glasses of water - 5+ servings of fruits/vegetables - 30 minutes of movement - 7-9 hours of sleep - Moment of mindfulness - Connection with someone you care about - Time for something you enjoy...
+
+total 2.19s
+=== What are the three components of the habit loop, and what does each mean?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.68s
+embedding usage: Usage(prompt_tokens=16, total_tokens=16)
+
+Q: What are the three components of the habit loop, and what does each mean?
+
+The three components of the habit loop are:
+
+1. Cue: A trigger that initiates the behavior.
+2. Routine: The behavior itself.
+3. Reward: The benefit you get from the behavior.
+
+These components help explain how habits form and can be used to build positive routines or break negative ones [chunk 12]. 
+
+For personalized advice on habit formation, consider consulting a professional.
+
+Sources:
+  [chunk 12] ion Habits are behaviors that become automatic through repet... (score 0.554)
+      ion Habits are behaviors that become automatic through repetition. Understanding how habits form can help you build positive routines and break negative ones. The habit loop consists of three components: - Cue: A trigger that initiates the behavior - Routine: The behavior itself - Reward: The benefit you get from the behavior Tips for building new habits: - Start small (commit to just 2 minutes in...
+  [chunk 11] Regular mindfulness practice has been shown to reduce stress... (score 0.394)
+      Regular mindfulness practice has been shown to reduce stress, improve focus, and enhance emotional regulation. Basic mindfulness meditation: 1. Find a quiet, comfortable place to sit 2. Close your eyes and focus on your breath 3. Notice when your mind wanders (this is normal) 4. Gently return attention to your breath 5. Start with 5 minutes and gradually increase Types of meditation: - Focused att...
+  [chunk 3] repeat 10 times. Chapter 3: Building a Workout Routine Start... (score 0.290)
+      repeat 10 times. Chapter 3: Building a Workout Routine Starting a new exercise routine can feel overwhelming. The key is to start slowly and gradually increase intensity and duration over time. Beginner Weekly Schedule: - Monday: 20-minute walk + 10 minutes stretching - Tuesday: 15 minutes bodyweight exercises (squats, push-ups, planks) - Wednesday: Rest or gentle yoga - Thursday: 20-minute walk +...
+
+total 2.31s
+=== How many days per week should adults do muscle-strengthening activities, and which protein sources does the guide list for muscle repair?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.53s
+embedding usage: Usage(prompt_tokens=27, total_tokens=27)
+
+Q: How many days per week should adults do muscle-strengthening activities, and which protein sources does the guide list for muscle repair?
+
+Adults should aim for muscle-strengthening activities on 2 or more days per week [chunk 0].
+
+The guide lists the following protein sources for muscle repair: lean meats, fish, eggs, legumes, and dairy [chunk 4].
+
+Please remember to consult with a healthcare or fitness professional to tailor exercise and nutrition plans to your individual needs.
+
+Sources:
+  [chunk 3] repeat 10 times. Chapter 3: Building a Workout Routine Start... (score 0.436)
+      repeat 10 times. Chapter 3: Building a Workout Routine Starting a new exercise routine can feel overwhelming. The key is to start slowly and gradually increase intensity and duration over time. Beginner Weekly Schedule: - Monday: 20-minute walk + 10 minutes stretching - Tuesday: 15 minutes bodyweight exercises (squats, push-ups, planks) - Wednesday: Rest or gentle yoga - Thursday: 20-minute walk +...
+  [chunk 0] The Personal Wellness Guide A Comprehensive Resource for Hea... (score 0.412)
+      The Personal Wellness Guide A Comprehensive Resource for Health and Well-being PART 1: EXERCISE AND MOVEMENT Chapter 1: Understanding Exercise Basics Exercise is one of the most important things you can do for your health. Regular physical activity can improve your brain health, help manage weight, reduce the risk of disease, strengthen bones and muscles, and improve your ability to do everyday ac...
+  [chunk 4] ls of Healthy Eating A balanced diet provides your body with... (score 0.409)
+      ls of Healthy Eating A balanced diet provides your body with the nutrients it needs to function properly. The key components include: Macronutrients: - Carbohydrates: Primary energy source. Choose complex carbs like whole grains, fruits, and vegetables. - Proteins: Essential for muscle repair and immune function. Good sources include lean meats, fish, eggs, legumes, and dairy. - Fats: Necessary fo...
+
+total 1.96s
+=== What daily targets does the guide give for water in ounces and fiber in grams?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.52s
+embedding usage: Usage(prompt_tokens=16, total_tokens=16)
+
+Q: What daily targets does the guide give for water in ounces and fiber in grams?
+
+The guide recommends drinking 64 ounces of water daily (8 glasses) [chunk 6]. However, the context does not provide a specific daily target for fiber in grams. 
+
+Please consult a healthcare professional or nutritionist for personalized advice on fiber intake.
+
+Sources:
+  [chunk 5] l planning saves time, reduces stress, and helps maintain a ... (score 0.419)
+      l planning saves time, reduces stress, and helps maintain a healthy diet. Weekly Meal Planning Steps: 1. Review your schedule for the week and identify busy days 2. Choose 3-4 main dishes that can provide leftovers 3. Plan for healthy snacks to avoid impulse eating 4. Create a detailed shopping list organized by store section 5. Prep ingredients in advance when possible Sample Day of Balanced Eati...
+  [chunk 6] on is to drink 8 glasses (64 ounces) of water daily, though ... (score 0.403)
+      on is to drink 8 glasses (64 ounces) of water daily, though individual needs vary based on activity level, climate, and body size. Signs of dehydration include: - Dark yellow urine - Fatigue and low energy - Headaches - Dry mouth and skin - Dizziness Tips for staying hydrated: - Start your day with a glass of water - Carry a reusable water bottle - Set reminders on your phone - Eat water-rich food...
+  [chunk 20] cklist: - 8 glasses of water - 5+ servings of fruits/vegetab... (score 0.398)
+      cklist: - 8 glasses of water - 5+ servings of fruits/vegetables - 30 minutes of movement - 7-9 hours of sleep - Moment of mindfulness - Connection with someone you care about - Time for something you enjoy...
+
+total 2.38s
+=== What does the guide say about caffeine for headaches, and what caffeine cutoff time does it recommend for better sleep?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.66s
+embedding usage: Usage(prompt_tokens=22, total_tokens=22)
+
+Q: What does the guide say about caffeine for headaches, and what caffeine cutoff time does it recommend for better sleep?
+
+The guide does not provide specific information about caffeine in relation to headaches. However, for better sleep, it recommends avoiding caffeine after 2 PM as part of essential sleep hygiene practices [chunk 8]. 
+
+For personalized advice regarding caffeine and headaches, it is best to consult a healthcare professional.
+
+Sources:
+  [chunk 8] Avoid caffeine after 2 PM - Exercise regularly, but not too ... (score 0.493)
+      Avoid caffeine after 2 PM - Exercise regularly, but not too close to bedtime - Limit alcohol and heavy meals before bed Creating an optimal sleep environment: - Temperature: 65-68 degrees Fahrenheit (18-20 Celsius) - Darkness: Use blackout curtains or a sleep mask - Quiet: Consider white noise machines or earplugs - Comfort: Invest in a quality mattress and pillows Chapter 9: Understanding and Man...
+  [chunk 13] ke at a consistent time - Drink a glass of water immediately... (score 0.435)
+      ke at a consistent time - Drink a glass of water immediately - 5-10 minutes of stretching or light movement - Healthy breakfast - Brief mindfulness practice or journaling - Review goals and priorities for the day Avoid these morning habits: - Checking phone immediately upon waking - Skipping breakfast - Hitting snooze multiple times - Rushing without preparation - Starting with negative news Chapt...
+  [chunk 7] t. Sleep occurs in cycles of about 90 minutes, alternating b... (score 0.393)
+      t. Sleep occurs in cycles of about 90 minutes, alternating between REM (rapid eye movement) and non-REM sleep. The four stages of sleep: - Stage 1: Light sleep, easy to wake, lasts 5-10 minutes - Stage 2: Body temperature drops, heart rate slows, prepares for deep sleep - Stage 3: Deep sleep, difficult to wake, body repairs and regenerates - REM Sleep: Brain is active, dreams occur, important for ...
+
+total 2.28s
+=== What dose of ibuprofen does the guide recommend for treating a migraine?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.48s
+embedding usage: Usage(prompt_tokens=15, total_tokens=15)
+
+Q: What dose of ibuprofen does the guide recommend for treating a migraine?
+
+I don't have information about the recommended dose of ibuprofen for treating a migraine in the provided context. For appropriate dosage and treatment, please consult a healthcare professional.
+
+Sources:
+  [chunk 14] 6: COMMON HEALTH CONCERNS Chapter 16: Managing Headaches Nat... (score 0.241)
+      6: COMMON HEALTH CONCERNS Chapter 16: Managing Headaches Naturally Headaches are one of the most common health complaints. Understanding triggers and natural remedies can help manage them effectively. Common headache triggers: - Dehydration - Stress and tension - Poor sleep - Skipped meals - Eye strain - Weather changes - Certain foods (alcohol, processed meats, aged cheese) Natural headache remed...
+  [chunk 0] The Personal Wellness Guide A Comprehensive Resource for Hea... (score 0.226)
+      The Personal Wellness Guide A Comprehensive Resource for Health and Well-being PART 1: EXERCISE AND MOVEMENT Chapter 1: Understanding Exercise Basics Exercise is one of the most important things you can do for your health. Regular physical activity can improve your brain health, help manage weight, reduce the risk of disease, strengthen bones and muscles, and improve your ability to do everyday ac...
+  [chunk 13] ke at a consistent time - Drink a glass of water immediately... (score 0.222)
+      ke at a consistent time - Drink a glass of water immediately - 5-10 minutes of stretching or light movement - Healthy breakfast - Brief mindfulness practice or journaling - Review goals and priorities for the day Avoid these morning habits: - Checking phone immediately upon waking - Skipping breakfast - Hitting snooze multiple times - Rushing without preparation - Starting with negative news Chapt...
+
+total 1.55s
+=== How many milligrams of magnesium does the guide recommend for insomnia, and when should it be taken?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.54s
+embedding usage: Usage(prompt_tokens=20, total_tokens=20)
+
+Q: How many milligrams of magnesium does the guide recommend for insomnia, and when should it be taken?
+
+I don't have information about the specific milligram dosage of magnesium recommended for insomnia or the timing of when it should be taken in the provided context. The guide mentions magnesium supplements as a natural remedy for better sleep but advises consulting a healthcare provider first [chunk 8][chunk 9]. For appropriate dosage and timing, please consult a healthcare professional.
+
+Sources:
+  [chunk 8] Avoid caffeine after 2 PM - Exercise regularly, but not too ... (score 0.476)
+      Avoid caffeine after 2 PM - Exercise regularly, but not too close to bedtime - Limit alcohol and heavy meals before bed Creating an optimal sleep environment: - Temperature: 65-68 degrees Fahrenheit (18-20 Celsius) - Darkness: Use blackout curtains or a sleep mask - Quiet: Consider white noise machines or earplugs - Comfort: Invest in a quality mattress and pillows Chapter 9: Understanding and Man...
+  [chunk 9] Insomnia (CBT-I) - Relaxation techniques like progressive mu... (score 0.417)
+      Insomnia (CBT-I) - Relaxation techniques like progressive muscle relaxation - Herbal teas such as chamomile or valerian root - Magnesium supplements (consult healthcare provider first) - Meditation and deep breathing exercises PART 4: STRESS MANAGEMENT AND MENTAL WELLNESS Chapter 10: Understanding Stress Stress is the body's response to any demand or threat. While some stress can be beneficial (mo...
+  [chunk 7] t. Sleep occurs in cycles of about 90 minutes, alternating b... (score 0.338)
+      t. Sleep occurs in cycles of about 90 minutes, alternating between REM (rapid eye movement) and non-REM sleep. The four stages of sleep: - Stage 1: Light sleep, easy to wake, lasts 5-10 minutes - Stage 2: Body temperature drops, heart rate slows, prepares for deep sleep - Stage 3: Deep sleep, difficult to wake, body repairs and regenerates - REM Sleep: Brain is active, dreams occur, important for ...
+
+total 1.90s
+=== What does each “20” in the guide's 20-20-20 rule stand for?
+corpus HealthWellnessGuide.txt: 16,206 characters -> 21 chunks
+embedding usage: Usage(prompt_tokens=4467, total_tokens=4467)
+indexed in 0.43s
+embedding usage: Usage(prompt_tokens=20, total_tokens=20)
+
+Q: What does each “20” in the guide's 20-20-20 rule stand for?
+
+The "20-20-20 rule" mentioned in the digital wellness practices means taking a break every 20 minutes to look at something 20 feet away for 20 seconds. This helps reduce eye strain from screen use [chunk 18]. 
+
+For personalized advice, please consult a healthcare professional.
+
+Sources:
+  [chunk 20] cklist: - 8 glasses of water - 5+ servings of fruits/vegetab... (score 0.268)
+      cklist: - 8 glasses of water - 5+ servings of fruits/vegetables - 30 minutes of movement - 7-9 hours of sleep - Moment of mindfulness - Connection with someone you care about - Time for something you enjoy...
+  [chunk 18] y - Join clubs or groups aligned with your interests - Volun... (score 0.256)
+      y - Join clubs or groups aligned with your interests - Volunteer in your community - Be present and engaged in conversations - Show appreciation and gratitude - Offer support to others Chapter 21: Digital Wellness Technology, while beneficial, can negatively impact health when overused. Signs of unhealthy technology use: - Difficulty sleeping - Eye strain and headaches - Neck and back pain - Anxie...
+  [chunk 19] media feeds for positivity APPENDIX: QUICK REFERENCE GUIDES ... (score 0.242)
+      media feeds for positivity APPENDIX: QUICK REFERENCE GUIDES Emergency Stress Relief (5 minutes or less): 1. Box breathing: 4 counts in, 4 hold, 4 out, 4 hold 2. Cold water on wrists and face 3. Step outside for fresh air 4. Progressive muscle relaxation 5. Name 5 things you can see, 4 hear, 3 feel, 2 smell, 1 taste Quick Energy Boosters: 1. 10 jumping jacks 2. Glass of cold water 3. Step outside f...
+
+total 1.64s

@@ -9,6 +9,7 @@ Neither function knows or cares what your corpus is about. That is the point:
 swap the .txt in data/ and nothing in this file should need to change.
 """
 
+
 from pathlib import Path
 
 
@@ -24,7 +25,7 @@ def load_corpus(path: Path) -> str:
     Hint: this is three lines. `open()`, or `Path.read_text()`. Mind the
     encoding: read it as utf-8, and your own corpus may need you to mean it.
     """
-    raise NotImplementedError("Write load_corpus() in retrieval_app/corpus.py")
+    return path.read_text(encoding="utf-8")
 
 
 def split_corpus(text: str, chunk_size: int = 1000, chunk_overlap: int = 200) -> list[str]:
@@ -47,4 +48,15 @@ def split_corpus(text: str, chunk_size: int = 1000, chunk_overlap: int = 200) ->
     Hint: a range() that steps by (chunk_size - chunk_overlap), slicing as it
     goes. Why does the step subtract the overlap rather than add it?
     """
-    raise NotImplementedError("Write split_corpus() in retrieval_app/corpus.py")
+    if chunk_size <= 0:
+        raise ValueError("chunk_size must be greater than 0.")
+    if not 0 <= chunk_overlap < chunk_size:
+        raise ValueError("chunk_overlap must be between 0 and chunk_size - 1.")
+    
+    step = chunk_size - chunk_overlap
+    chunks = []
+    for i in range(0, len(text), step):
+        chunks.append(text[i:i + chunk_size])
+
+    return chunks
+
